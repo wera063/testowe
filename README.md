@@ -1,13 +1,1 @@
-# testowe
-
-testowe repozytorium publiczne - Weronika
-Napisz plan testu dla rejestracji poczty konta wp.pl z uwzględnieniem walidacji (tylko pierwsze pięć punktów)
-
-
-
-1. Wstęp
-2. Zakres testów
-3. Przedmiot testów 
-4. Kryteria zaliczenia / niezaliczenia testów
-5. Kryteria wejścia / wyjścia 
-
+# testowetestowe repozytorium publiczne - WeronikaNapisz plan testu dla rejestracji poczty konta wp.pl z uwzględnieniem walidacji (tylko pierwsze pięć punktów)1. Wstęp2. Zakres testów3. Przedmiot testów4. Kryteria zaliczenia / niezaliczenia testów5. Kryteria wejścia / wyjścia
